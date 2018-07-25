@@ -1,0 +1,11 @@
+
+.line {
+position: relative;
+margin-top: 2%;
+margin-left: 2%;
+border-top: 2px solid #999999;
+
+width: 96%;
+height: 1%;
+min-width:400px auto;
+max-width:1000px auto;

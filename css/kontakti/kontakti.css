@@ -1,0 +1,68 @@
+
+
+.kontakti  {
+position: absolute;
+
+}
+
+.kontakti ul {
+list-style: none;
+margin-top: 3%;
+margin-left: 10%;
+}
+
+.kontakti ul li{
+margin-top: 3%;
+}
+
+.kontakti ul li a{
+text-decoration: none;
+color: #000;
+
+font-size: 28px;
+}
+
+.kontakti img{
+position: relative;
+width: 3%;
+}
+
+.kontakti ul li:hover {
+text-decoration: underline;
+}
+
+.email p{
+margin-top: 2%;
+margin-left: 70%;
+font-style: oblique;
+font-size: 12px;
+border-bottom: 1px solid #000;
+width: 22%;
+}
+
+.infokont {
+position: absolute;
+background: #CACFD2;
+z-index: 1;
+width: 92%;
+height: 68%;
+margin-top: 40%;
+margin-left: 4%;
+border: 0.5px solid #000;
+}
+
+.niz {
+
+margin-top: 153%;
+}
+
+
+
+.adres p {
+position: absolute;
+margin-top: 37%;
+margin-left: 80%;
+text-decoration: none;
+color: #000;
+}
+

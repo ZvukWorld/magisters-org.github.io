@@ -1,0 +1,44 @@
+
+
+#search-form {
+position: absolute;
+
+float: left;
+margin-top: 1.5%;
+margin-left: 25%;
+width: 26%;
+height: 6%;
+padding-left: 15px;
+padding-right: 5px;
+background: #dcdcdc;
+color: #000;
+border-radius: 25px 25px 25px 25px;
+outline: none;
+border: 2px solid #000;
+}
+
+#search-form:hover {
+background: #fff;
+}
+
+
+
+
+
+.container-form button {
+position: absolute;
+
+float: left;
+margin-top: 2%;
+margin-left: 48.5%;
+width: 2%;
+height: 4%;
+background: #dcdcdc;
+border-radius: 45px;
+outline: none;
+border: 2px solid #000;
+}
+
+.container-form button:hover {
+border: 3px solid #000;
+}

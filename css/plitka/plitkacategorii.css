@@ -1,0 +1,88 @@
+
+
+
+
+
+.kub{
+margin-top: 3%;
+margin-left: 2%;
+position: relative;
+
+width: 100%;
+height: 58%;
+
+
+}
+
+
+
+.kub ul li {
+box-shadow: 6px -6px 12px 0px #666;
+background: #dcdcdc;
+border-radius: 5px 5px 5px 5px;
+border: 2px solid #999999;
+list-style: none;
+float: left;
+
+width: 22%;
+height: 40%;
+margin: 0.4% 0.4% 1% 1%;
+
+}
+
+
+.kub ul li a {
+text-align: center;
+color: #000;
+text-decoration: none;
+}
+
+
+
+.kub ul li a img {
+margin-top: 1%;
+margin-left: 1.5%;
+max-width: 100%;
+width: 97%;
+
+
+border-radius: 5px 5px 0px 0px;
+
+height: 50%;
+}
+
+.kub ul li a img:hover {
+opacity:0.77;
+-moz-opacity:0.77;
+}
+
+.kub ul li a p {
+margin-top: 1%;
+position: center;
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size: 16px;
+color: #000;
+text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

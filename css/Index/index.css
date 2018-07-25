@@ -1,0 +1,70 @@
+
+.zzzproc a{
+position: absolute;
+text-decoration: none;
+color: #dcdcdc;
+font-size: 80px;
+margin-top: 3%;
+margin-left: -95%;
+}
+
+.zzzmat {
+margin-top: 2%;
+}
+
+
+.zzzmat a{
+position: absolute;
+text-decoration: none;
+color: #dcdcdc;
+font-size: 80px;
+margin-top: 3%;
+margin-left: -95%;
+}
+
+.zzzvid {
+margin-top: 2%;
+}
+
+.zzzvid a{
+position: absolute;
+text-decoration: none;
+color: #dcdcdc;
+font-size: 80px;
+margin-top: 3%;
+margin-left: -95%;
+}
+
+.zzzzh {
+margin-top: 2%;
+}
+
+.zzzzh a{
+position: absolute;
+text-decoration: none;
+color: #dcdcdc;
+font-size: 80px;
+margin-top: 3%;
+margin-left: -95%;
+}
+
+.zzzproc a:hover{
+color: blue;
+}
+
+.zzzmat a:hover{
+color: blue;
+}
+
+.zzzvid a:hover{
+color: blue;
+}
+
+.zzzzh a:hover{
+color: blue;
+}
+
+.niz {
+
+margin-top: 155%;
+}

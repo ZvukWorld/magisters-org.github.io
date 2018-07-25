@@ -1,0 +1,180 @@
+
+.photo {
+position: absolute;
+border-radius: 10px 10px 10px 10px;
+border: 2px solid #000;
+width: 30%;
+height: 20%;
+margin-top: 5%;
+margin-left: 5%;
+}
+
+.photo img{
+position:relative;
+width: 100%;
+height: 100%;
+border-radius: 10px 10px 10px 10px;
+}
+
+.opic {
+position: absolute;
+width: 30%;
+height: 20%;
+
+margin-top: 5%;
+margin-left: 45%;
+}
+
+.opic p {
+font-size: 28px;
+}
+
+
+
+.moneyy {
+position: absolute;
+margin-top: 7%;
+margin-left: 1%;
+width: 50%;
+height: 15%;
+background: #cc0000;
+border-radius: 25px 25px 25px 25px;
+border: 2px solid #ffcc00;
+}
+
+.moneyy a h5 {
+margin-top: 6%;
+margin-left: 9%;
+color: #dcdcdc;
+text-decoration: underline;
+}
+
+.moneyy a h5:hover {
+text-decoration: none;
+}
+
+.moneyy:hover {
+background: linear-gradient(45deg, #000099, #000000);
+}
+
+.spis {
+position: absolute;
+width: 50%;
+font-size: 16px;
+margin-left: 45%;
+margin-top: 15%;
+
+}
+
+.spis ul{
+list-style: none;
+border-top: 0.5px solid #000;
+}
+
+.spis ul li{
+padding-top: 20px;
+}
+
+.zzr {
+position: absolute;
+
+z-index: 1;
+width: 96%;
+height: 25%;
+margin-top: 52%;
+margin-left: 2%;
+border-top: 0.5px solid #000;
+border-bottom: 0.5px solid #000;
+}
+
+.zzr h6{
+margin-top: 2%;
+font-size:22px;
+}
+
+.zzr p{
+padding-top: 20px;
+}
+
+.imagee {
+position: absolute;
+height: 8%;
+width: 96%;
+background: #ffcc00;
+margin-top: 38%;
+margin-left: 2%;
+}
+
+.xarakter {
+position: absolute;
+margin-top: 90%;
+width: 96%;
+height: 35%;
+margin-left: 2%;
+
+}
+
+.xarakter ul{
+list-style: none;
+}
+
+.xarakter h5{
+margin-left: 2%;
+font-size: 22px;
+}
+
+.xarakter h6{
+font-size: 18px;
+margin-top: 3%;
+margin-left: 1%;
+}
+
+.xarakter p{
+font-size: 14px;
+margin-top: 1.5%;
+margin-left: 1%;
+}
+
+.border {
+background: #fff;
+position: relative;
+border-top: 1px solid #000;
+width: 98%;
+margin-left: 1%;
+}
+
+.xarakter p1{
+float: right;
+margin-right: 1%;
+}
+
+
+.skrin {
+margin-top: 37%;
+margin-left: 2.5%;
+position: absolute;
+width:94%;
+height: 9%;
+}
+
+.skrin ul{
+list-style: none;
+}
+
+.skrin ul li{
+width: 19.15%;
+height: 100%;
+float: left;
+display: block;
+margin-left: 0.4%;
+border: 2px solid #dcdcdc;
+}
+
+.skrin ul li img{
+margin-top: 0.1%;
+padding-left: 0.1%;
+width: 99.6%;
+height: 99.6%;
+}
+
+

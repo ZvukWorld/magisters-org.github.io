@@ -1,0 +1,52 @@
+*{
+padding:0;
+margin:0;
+}
+
+
+
+.podmenu{
+position: relative;
+margin-top: 2%;
+margin-left: 2%;
+background: #CACFD2;
+
+width: 96%;
+height: 1%;
+min-width:400px auto;
+max-width:1000px auto;
+}
+
+.podmenu ul{
+position:relative;
+display:table-row;
+}
+
+.podmenu ul li{
+height:20px;
+width:auto;
+display:table-cell;
+text-align:center;
+}
+
+
+.podmenu ul li a{
+vertical-align: middle;
+height:20px;
+color:#000;
+display:table-cell;
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size: 13px;
+font-weight:bolt;
+width:1000px;
+text-decoration:none;
+position: center;
+padding-top: 3px;
+}
+
+
+
+
+.podmenu ul li a:hover{
+text-decoration:underline;
+}

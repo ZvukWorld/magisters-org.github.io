@@ -1,0 +1,260 @@
+.top{
+margin-top: 1%;
+margin-left: 3%;
+position: absolute;
+
+width: 96%;
+height: 80%;
+
+
+}
+
+
+
+.top ul li {
+box-shadow: 6px -6px 12px 0px #666;
+background: #dcdcdc;
+border-radius: 5px 5px 5px 5px;
+border: 2px solid #999999;
+list-style: none;
+float: left;
+
+
+margin: 4% 0.4% 1% 1%;
+
+}
+
+
+
+
+
+
+
+
+
+
+.top ul li a p {
+margin-top: 1%;
+position: center;
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size: 16px;
+color: #000;
+text-decoration: none;
+}
+
+
+
+
+.topi {
+position: relative;
+box-shadow: 0px 12px 37px -11px #999;
+width: 100%;
+height: 2%;
+
+}
+
+.topi img{
+width: 20px;
+}
+
+.topi p {
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size: 20px;
+
+margin-left: 42%;
+}
+
+
+.top ul li 
+{
+width: 44%;
+height: 4%;
+margin-bottom: -2%;
+}
+
+.one 
+{
+
+position: relative;
+width: 100%;
+top: 44%;
+height:3%;
+}
+
+.one audio
+{
+position: relative;
+width: 89%;
+margin-left: 11%;
+z-index: 1;
+}
+
+.previve
+{
+width: 72%;
+height: 51%;
+position: absolute;
+z-index: 1;
+}
+
+
+
+.llo  {
+position: absolute;
+margin-left: 6%;
+
+}
+
+.blockk {
+background: #CACFD2;
+position: relative;
+margin-left: 2%;
+width: 96%;
+height: 71%;
+
+}
+
+.zzz img {
+width: 100%;
+height: 18%;
+
+}
+
+.infa
+{
+position: absolute;
+top: 7%;
+width: 90%;
+height: 30%;
+margin-left: 5%;
+border: 2px solid #0000cc;
+z-index: 1;
+}
+
+.infa a  
+{
+color: #0000cc;
+text-decoration: underline;
+}
+
+.infa p
+{
+margin-left: 2%;
+font-size: 50px;
+color: #0000cc;
+}
+
+.infa a:hover {
+color: #ccc;
+text-decoration: none;
+}
+
+
+.donat p
+{
+margin-left: 1%;
+padding-top: 2%;
+}
+
+.donat2 p {
+margin-left: 1%;
+padding-top: 4%;
+}
+
+
+.dobav {
+background: #CACFD2;
+position: relative;
+margin-left: 2%;
+width: 96%;
+height: 25%;
+}
+
+
+
+
+
+
+
+
+
+
+
+.top2 ul li 
+{
+width: 44%;
+height: 13%;
+margin-bottom: -2%;
+}
+
+.top2{
+margin-top: 2%;
+margin-left: 3%;
+position: absolute;
+width: 96%;
+height: 70%;
+
+}
+
+.top2 ul li {
+box-shadow: 6px -6px 12px 0px #666;
+background: #dcdcdc;
+border-radius: 5px 5px 5px 5px;
+border: 2px solid #999999;
+list-style: none;
+float: left;
+margin: 1% 0.4% 1% 1%;
+
+}
+
+.top2 ul li a p {
+margin-top: 1%;
+position: center;
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size: 16px;
+color: #000;
+text-decoration: none;
+
+}
+
+
+
+
+
+.topi2 {
+position: relative;
+box-shadow: 0px 12px 37px -11px #999;
+width: 100%;
+height: 2%;
+border-top: 2px solid #000;
+}
+
+.topi2 img{
+width: 20px;
+}
+
+.topi2 p {
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size: 20px;
+
+margin-left: 38%;
+}
+
+.one2 
+{
+
+position: relative;
+width: 100%;
+top: 44%;
+height:3%;
+}
+
+.one2 audio
+{
+position: relative;
+width: 100%;
+
+}
+
+
+
